@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="26px" viewBox="0 0 19 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>payment summary</title>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="My-Earnings-with-F-ADJ-and-total-earnings" transform="translate(-1291.000000, -322.000000)" stroke="#263238">
+            <g id="Group" transform="translate(1292.000000, 323.000000)">
+                <g id="Group-15" transform="translate(-0.000000, 0.000000)">
+                    <polygon id="Path-2" stroke-width="1" stroke-linejoin="bevel" points="-5.5067062e-14 -1.16417106e-13 -5.5067062e-14 21.6408912 2.49576369 24 5.05392147 21.6408912 7.20650932 24 9.57748483 21.6408912 12.4788184 24 14.5066181 21.6408912 17.0023818 24 17.0023818 2.32743982 14.5066181 -1.16417106e-13 12.4788184 1.57252081 9.57748483 -1.16417106e-13 7.20650932 1.57252081 5.05392147 -1.16417106e-13 2.49576369 1.57252081"></polygon>
+                    <line x1="3.21161789" y1="7.40858616" x2="8.21161789" y2="7.40858616" id="Path-3" stroke-width="1"></line>
+                    <line x1="3.21161789" y1="10.433371" x2="6.74725469" y2="10.433371" id="Path-4" stroke-width="1"></line>
+                    <line x1="3.21161789" y1="13.4581558" x2="6.74725469" y2="13.4581558" id="Path-5" stroke-width="1"></line>
+                    <line x1="3.21161789" y1="16.4829406" x2="4.97943629" y2="16.4829406" id="Path-6" stroke-width="1"></line>
+                    <path d="M13.97225,7.72917169 C13.8095069,6.67073387 12.9759709,5.89605872 12,5.89619375 C10.8955,5.89619375 10,6.69746854 10,7.91257947 C10,9.12769041 11,9.67791376 12,9.92924017 C13,10.1767169 14,10.7313399 14,11.9459009 C14,13.1604619 13.1045,13.9622866 12,13.9622866 C10.8954305,13.9622866 10,12.9774055 10,11.7624931" id="Path" stroke-width="0.525" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M12.28,5.86293622 L12.28,4.38380135 M12.28,15.474679 L12.28,13.9955441" id="Shape" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

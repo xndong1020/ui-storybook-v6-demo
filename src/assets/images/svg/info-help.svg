@@ -1,0 +1,36 @@
+<svg width="20" height="20" viewBox="0 0 64 64" aria-labelledby="title" aria-describedby="desc" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <circle
+      data-name="layer2"
+      cx="32"
+      cy="32"
+      r="30"
+      fill="none"
+      stroke="#202020"
+      stroke-miterlimit="10"
+      stroke-width="2"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+    ></circle>
+    <path
+      data-name="layer1"
+      fill="none"
+      stroke="#202020"
+      stroke-miterlimit="10"
+      stroke-width="2"
+      d="M28 26h4v22m-4 .008h8"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+    ></path>
+    <circle
+      data-name="layer1"
+      cx="31"
+      cy="19"
+      r="2"
+      fill="none"
+      stroke="#202020"
+      stroke-miterlimit="10"
+      stroke-width="2"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+    ></circle>
+  </svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Link</title>
+  <desc>A line styled icon from Orion Icon Library.</desc>
+  <rect data-name="layer2"
+  x="2" y="21" width="26" height="22" rx="8" ry="8" fill="none" stroke="#202020"
+  stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"></rect>
+  <rect data-name="layer2" x="36" y="21" width="26" height="22" rx="8"
+  ry="8" fill="none" stroke="#202020" stroke-miterlimit="10" stroke-width="2"
+  stroke-linejoin="round" stroke-linecap="round"></rect>
+  <path data-name="layer1" fill="none" stroke="#202020" stroke-miterlimit="10"
+  stroke-width="2" d="M16 32h32" stroke-linejoin="round" stroke-linecap="round"></path>
+</svg>
